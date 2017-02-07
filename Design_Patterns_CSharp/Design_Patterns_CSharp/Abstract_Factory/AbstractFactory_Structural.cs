@@ -34,7 +34,6 @@ namespace Design_Patterns_CSharp.Abstract_Factory
         public abstract AbstractProductB CreateProductB();
     }
 
-
     /// <summary>
     /// The 'ConcreteFactory1' class
     /// </summary>

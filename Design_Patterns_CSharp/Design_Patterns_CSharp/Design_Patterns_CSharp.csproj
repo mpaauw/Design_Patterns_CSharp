@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Abstract_Factory\AbstractFactory_RealWorld.cs" />
     <Compile Include="Abstract_Factory\AbstractFactory_Structural.cs" />
+    <Compile Include="Factory_Method\FactoryMethod_RealWorld.cs" />
+    <Compile Include="Factory_Method\FactoryMethod_Structural.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
