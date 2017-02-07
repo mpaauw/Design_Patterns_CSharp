@@ -46,6 +46,8 @@
     <Compile Include="Abstract_Factory\AbstractFactory_Structural.cs" />
     <Compile Include="Adapter\Adapter_RealWorld.cs" />
     <Compile Include="Adapter\Adapter_Structural.cs" />
+    <Compile Include="Command\Command_RealWorld.cs" />
+    <Compile Include="Command\Command_Structural.cs" />
     <Compile Include="Composite\Composite_RealWorld.cs" />
     <Compile Include="Composite\Composite_Structural.cs" />
     <Compile Include="Facade\Facade_RealWorld.cs" />
