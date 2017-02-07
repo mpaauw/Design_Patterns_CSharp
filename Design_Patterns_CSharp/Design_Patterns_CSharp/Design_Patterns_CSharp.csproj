@@ -54,6 +54,8 @@
     <Compile Include="Factory_Method\FactoryMethod_Structural.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy\Proxy_RealWorld.cs" />
+    <Compile Include="Proxy\Proxy_Structural.cs" />
     <Compile Include="Singleton\Singleton_RealWorld.cs" />
     <Compile Include="Singleton\Singleton_Structural.cs" />
   </ItemGroup>
