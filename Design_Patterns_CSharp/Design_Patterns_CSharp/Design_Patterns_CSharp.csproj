@@ -58,6 +58,8 @@
     <Compile Include="Behavioral_Patterns\State\State_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Strategy\Strategy_RealWorld.cs" />
     <Compile Include="Behavioral_Patterns\Strategy\Strategy_Structural.cs" />
+    <Compile Include="Behavioral_Patterns\Template Method\TemplateMethod_RealWorld.cs" />
+    <Compile Include="Behavioral_Patterns\Template Method\TemplateMethod_Structural.cs" />
     <Compile Include="Creational_Patterns\Abstract_Factory\AbstractFactory_RealWorld.cs" />
     <Compile Include="Creational_Patterns\Abstract_Factory\AbstractFactory_Structural.cs" />
     <Compile Include="Creational_Patterns\Builder\Builder_RealWorld.cs" />
