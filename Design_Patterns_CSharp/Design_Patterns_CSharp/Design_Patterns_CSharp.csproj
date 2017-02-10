@@ -52,6 +52,8 @@
     <Compile Include="Creational_Patterns\Abstract_Factory\AbstractFactory_Structural.cs" />
     <Compile Include="Creational_Patterns\Builder\Builder_RealWorld.cs" />
     <Compile Include="Creational_Patterns\Builder\Builder_Structural.cs" />
+    <Compile Include="Creational_Patterns\Prototype\Prototype_RealWorld.cs" />
+    <Compile Include="Creational_Patterns\Prototype\Prototype_Structural.cs" />
     <Compile Include="Structural_Patterns\Adapter\Adapter_RealWorld.cs" />
     <Compile Include="Structural_Patterns\Adapter\Adapter_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Command\Command_RealWorld.cs" />
