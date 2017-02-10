@@ -70,6 +70,8 @@
     <Compile Include="Creational_Patterns\Factory_Method\FactoryMethod_Structural.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structural_Patterns\Flyweight\Flyweight_RealWorld.cs" />
+    <Compile Include="Structural_Patterns\Flyweight\Flyweight_Structural.cs" />
     <Compile Include="Structural_Patterns\Proxy\Proxy_RealWorld.cs" />
     <Compile Include="Structural_Patterns\Proxy\Proxy_Structural.cs" />
     <Compile Include="Creational_Patterns\Singleton\Singleton_RealWorld.cs" />
