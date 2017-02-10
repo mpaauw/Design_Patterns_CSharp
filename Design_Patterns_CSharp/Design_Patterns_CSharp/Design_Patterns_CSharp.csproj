@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Behavioral_Patterns\Chain_of_Responsibility\ChainOfResponsibility_RealWorld.cs" />
     <Compile Include="Behavioral_Patterns\Chain_of_Responsibility\ChainOfResponsibility_Structural.cs" />
+    <Compile Include="Behavioral_Patterns\Interpreter\Interpreter_RealWorld.cs" />
+    <Compile Include="Behavioral_Patterns\Interpreter\Interpreter_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Iterator\Iterator_RealWorld.cs" />
     <Compile Include="Behavioral_Patterns\Iterator\Iterator_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Observer\Observer_RealWorld.cs" />
