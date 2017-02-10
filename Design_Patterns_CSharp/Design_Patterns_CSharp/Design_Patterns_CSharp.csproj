@@ -58,6 +58,8 @@
     <Compile Include="Structural_Patterns\Adapter\Adapter_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Command\Command_RealWorld.cs" />
     <Compile Include="Behavioral_Patterns\Command\Command_Structural.cs" />
+    <Compile Include="Structural_Patterns\Bridge\Bridge_RealWorld.cs" />
+    <Compile Include="Structural_Patterns\Bridge\Bridge_Structural.cs" />
     <Compile Include="Structural_Patterns\Composite\Composite_RealWorld.cs" />
     <Compile Include="Structural_Patterns\Composite\Composite_Structural.cs" />
     <Compile Include="Structural_Patterns\Facade\Facade_RealWorld.cs" />
