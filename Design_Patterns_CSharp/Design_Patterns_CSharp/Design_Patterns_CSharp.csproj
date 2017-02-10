@@ -48,6 +48,8 @@
     <Compile Include="Behavioral_Patterns\Interpreter\Interpreter_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Iterator\Iterator_RealWorld.cs" />
     <Compile Include="Behavioral_Patterns\Iterator\Iterator_Structural.cs" />
+    <Compile Include="Behavioral_Patterns\Mediator\Mediator_RealWorld.cs" />
+    <Compile Include="Behavioral_Patterns\Mediator\Mediator_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Observer\Observer_RealWorld.cs" />
     <Compile Include="Behavioral_Patterns\Observer\Observer_Structural.cs" />
     <Compile Include="Behavioral_Patterns\Strategy\Strategy_RealWorld.cs" />
