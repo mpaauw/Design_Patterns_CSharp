@@ -62,6 +62,8 @@
     <Compile Include="Structural_Patterns\Bridge\Bridge_Structural.cs" />
     <Compile Include="Structural_Patterns\Composite\Composite_RealWorld.cs" />
     <Compile Include="Structural_Patterns\Composite\Composite_Structural.cs" />
+    <Compile Include="Structural_Patterns\Decorator\Decorator_RealWorld.cs" />
+    <Compile Include="Structural_Patterns\Decorator\Decorator_Structural.cs" />
     <Compile Include="Structural_Patterns\Facade\Facade_RealWorld.cs" />
     <Compile Include="Structural_Patterns\Facade\Facade_Structural.cs" />
     <Compile Include="Creational_Patterns\Factory_Method\FactoryMethod_RealWorld.cs" />
